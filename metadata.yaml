@@ -1,0 +1,29 @@
+_repo: The-Life-Story-of-an-Old-Rebel_16559
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Denvir, John
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '6788'
+    url: http://www.gutenberg.org/2009/agents/6788
+description: ''
+gutenberg_issued: '2005-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16559'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Denvir, John, 1843-1916'
+- !lcsh 'Revolutionaries -- Ireland -- Biography'
+- !lcsh 'Ireland -- Politics and government -- 1837-1901'
+- !lcc 'DA'
+- !lcsh 'Irish -- Great Britain -- History'
+title: The Life Story of an Old Rebel
+url: http://www.gutenberg.org/ebooks/16559
